@@ -1,0 +1,1 @@
+az deployment group create --resource-group 'rg-some-test-group01' --template-file 'deploy.bicep' --parameters 'parameters.dev.json' --confirm-with-what-if

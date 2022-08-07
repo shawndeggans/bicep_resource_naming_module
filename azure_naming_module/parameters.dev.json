@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "resourceType": {
+            "value": "azureStorageAccountDataLake"
+        },
+        "region": {
+            "value": "eastus"
+        },
+        "environment": {
+            "value": "dev"
+        },
+        "application": {
+            "value": "deltalake"
+        },
+        "businessUnit": {
+            "value": "hr"
+        },
+        "instance": {
+            "value": "001"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json-schema.org/schema",
+    "contentVersion": "1.0.0.0",
+    "comments": "Ran the az account list-locations -o table to get list. This will give us regions and short names for most of the United States. Short names are limited to 5 characters. Gov is included here, but remember that gov deployments require different login parameters.",
+    "locations": {
+        "eastus": "eus",
+        "eastus2": "eus2",
+        "southcentralus": "scus",
+        "westus": "wus",
+        "westus2": "wus2",
+        "centralus": "cus",
+        "northcentralus": "ncus",
+        "usdodcentral": "usdc",
+        "usdodeast": "usde",
+        "usgovarizona": "usga",
+        "usgovtexas": "usgt",
+        "usgovvirginia": "usgv"
+    }
+}

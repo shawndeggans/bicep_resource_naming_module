@@ -100,7 +100,7 @@ var resourceShortcode = sharedResourceTypes.resources[resourceType].abbreviation
 
 /*
 ************************************************************************
-Change the order or shape of these string to customize your naming convetion
+Change the order or shape of these objects to customize your naming convetion
 ************************************************************************
 */
 

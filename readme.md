@@ -1,6 +1,6 @@
 # Azure Resource Naming Helper
 
-I've been searching for a good ways to name Azure resources. This module attempts to take Azure's recommended best practices for naming resources. I'd like something that's flexible, but still opinionated.
+I've been searching for a good way to name Azure resources. This module attempts to take Azure's recommended best practices for naming resources. I'd like something that's flexible, but still opinionated.
 
 **Here are some of our basics:**
 

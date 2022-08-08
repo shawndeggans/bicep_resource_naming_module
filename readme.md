@@ -84,4 +84,4 @@ output resourceName string = toLower(sharedResourceTypes.resources[resourceType]
 
 ### TODO
 
-This is a work-in-progress. Under the `.ref` directory you'll find the reference documents that feed teh regions and resource types. They are not complete. As I add more resources I'll update these files, as well as the required fields for the main `deploy.bicep` file.
+This is a work-in-progress. Under the `.ref` directory you'll find the reference documents that feed the regions and resource types. They are not complete. As I add more resources I'll update these files, as well as the required fields for the main `deploy.bicep` file.
